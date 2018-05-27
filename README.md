@@ -6,7 +6,7 @@ A random tweet bot working on python3.
 ```
 git clone https://github.com/kaicho8636/pyvot.git
 ```
-to download.
+to install.
 
 
 ## Dependencies
