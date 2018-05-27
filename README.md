@@ -2,6 +2,13 @@
 A random tweet bot working on python3.
 
 
+## Install
+```
+git clone https://github.com/kaicho8636/pyvot.git
+```
+to download.
+
+
 ## Dependencies
 You'll need to install [pyyaml](https://github.com/yaml/pyyaml):
 ```
